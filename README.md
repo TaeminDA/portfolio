@@ -4,6 +4,7 @@
 ## Supervised Learning
 
 1. [Binary Classification](https://github.com/TaeminDA/Binary_Classification)
+- Heart Diease
 
 2. [Multiclass Classification](https://github.com/TaeminDA/Multiclass_Classification)
 - Star Type Classification

@@ -45,3 +45,5 @@
 ------
 
 
+## [List of Certifications](https://github.com/TaeminDA/portfolio/blob/main/certifications/list_certifications.md)
+

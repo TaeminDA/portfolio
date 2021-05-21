@@ -3,11 +3,12 @@
 
 ## Supervised Learning
 
-1. Binary Classification
+1. [Binary Classification](https://github.com/TaeminDA/Binary_Classification)
 
-2. Multiclass Classification
+2. [Multiclass Classification](https://github.com/TaeminDA/Multiclass_Classification)
+- Star Type Classification
 
-3. Regression
+3. [Regression](https://github.com/TaeminDA/Regression)
 
 4. Time Series Analysis
 

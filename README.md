@@ -1,25 +1,19 @@
 # Taemin's Portfolio
 
 
-## Supervised Learning
+## Basic Classification
 
-1. [Binary Classification](https://github.com/TaeminDA/Binary_Classification)
-- Heart Diease
-
-------
-
-2. [Multiclass Classification](https://github.com/TaeminDA/Multiclass_Classification)
-- Star Type Classification
+- **Heart Diease**: _Binary Classification_ with various Machine Learning Models
+- **Star Type Classification**: _Multi-Class Classification_ with various Machine Learning Models
 
 ------
-
-3. [Regression](https://github.com/TaeminDA/Regression)
+## Regression
 
 - **Tax Rebate and Heterogeneous Household's Behavior**: (DNN)
 
 ------
 
-4. Time Series Analysis
+## Time Series Analysis
 
 - **ARIMA Model**
 - **Seasonal Adjustment**
@@ -28,7 +22,7 @@
 
 ------
 
-5. Computer Vision
+## Computer Vision
 
 - **Horses vs. Humans**: _Binary Classification_ with Custom Model (DNN)
 - **Data Sets?**: _Multi-Class Classification_ with Custom Model (DNN)
@@ -36,11 +30,11 @@
 
 ------
 
-6. Natural Language Process
+## Natural Language Process
 
 ------
 
-7. Speech Recognition
+## Speech Recognition
 
 ------
 

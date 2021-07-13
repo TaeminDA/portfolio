@@ -24,7 +24,7 @@
 
 ## Computer Vision
 
-- **Horses vs. Humans**: _Binary Classification_ with Custom Model (DNN)
+- [**Horses vs. Humans**: _Binary Classification_ with Custom Model (DNN)](https://github.com/TaeminDA/portfolio/blob/main/computer_vision/Image_Binary_Classification_with_TF_Horses_vs_Humans.ipynb)
 - **Data Sets?**: _Multi-Class Classification_ with Custom Model (DNN)
 - **Object Detection** : Mulit-Label (DNN)
 

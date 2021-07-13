@@ -15,15 +15,24 @@
 
 3. [Regression](https://github.com/TaeminDA/Regression)
 
-- Heterogenous Household Reactions to Tax Rebate
+- **Tax Rebate and Heterogeneous Household's Behavior**: (DNN)
 
 ------
 
 4. Time Series Analysis
 
+- **ARIMA Model**
+- **Seasonal Adjustment**
+- **VAR Model**
+- **Time Series Analysis with Machine Learning (DNN)**
+
 ------
 
-5. Image Recognition
+5. Computer Vision
+
+- **Horses vs. Humans**: _Binary Classification_ with Custom Model (DNN)
+- **Data Sets?**: _Multi-Class Classification_ with Custom Model (DNN)
+- **Object Detection** : Mulit-Label (DNN)
 
 ------
 

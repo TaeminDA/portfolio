@@ -9,7 +9,7 @@
 ------
 ## Regression
 
-- **Tax Rebate and Heterogeneous Household's Behavior**: (DNN)
+- [**Tax Rebate and Heterogeneous Household's Behavior with Confidnce Interval**: (DNN)](https://github.com/TaeminDA/portfolio/blob/main/regression/Heterogeneous_Behavior.ipynb)
 
 ------
 

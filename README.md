@@ -3,8 +3,8 @@
 
 ## Basic Classification
 
-- **Heart Diease**: _Binary Classification_ with various Machine Learning Models
-- **Star Type Classification**: _Multi-Class Classification_ with various Machine Learning Models
+- [**Heart Diease**: _Binary Classification_ with various Machine Learning Models](https://github.com/TaeminDA/portfolio/blob/main/basic/binary/Heart_Diease_Classification_V1.ipynb)
+- [**Star Type Classification**: _Multi-Class Classification_ with various Machine Learning Models](https://github.com/TaeminDA/portfolio/blob/main/basic/multiclass/Star_Classification_V1.ipynb)
 
 ------
 ## Regression

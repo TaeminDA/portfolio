@@ -42,7 +42,7 @@
 
 ## Unsupervised Learning
 
-- [**K-means vs. C-means: Hard and Soft Clusting**](https://github.com/TaeminDA/portfolio/blob/main/unsupervised/Clustering_K_means_vs_C_means.ipynb)
+- [**K-means vs. C-means: Hard and Soft Clusting**](https://github.com/TaeminDA/portfolio/blob/main/unsupervised/K_means_vs_C_means.ipynb)
 
 ------
 

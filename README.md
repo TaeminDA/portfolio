@@ -19,6 +19,8 @@
 - **ARIMA Model**
 - **Seasonal Adjustment**
 - **VAR Model**
+
+### Univariate Time Series Forecasting
 - (DNN)[**Icecream Data**: Time Series Analysis with RNN](https://github.com/TaeminDA/portfolio/blob/main/tsa/Times_Series_Analysis_with_RNN.ipynb)
 
 ------

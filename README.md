@@ -19,7 +19,7 @@
 - **ARIMA Model**
 - **Seasonal Adjustment**
 - **VAR Model**
-- (DNN)**Time Series Analysis with Machine Learning**
+- (DNN)[**Icecream Data** Time Series Analysis with RNN](https://github.com/TaeminDA/portfolio/blob/main/tsa/Times_Series_Analysis_with_RNN.ipynb)
 
 ------
 

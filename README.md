@@ -19,7 +19,7 @@
 - **ARIMA Model**
 - **Seasonal Adjustment**
 - **VAR Model**
-- (DNN)[**Icecream Data** Time Series Analysis with RNN](https://github.com/TaeminDA/portfolio/blob/main/tsa/Times_Series_Analysis_with_RNN.ipynb)
+- (DNN)[**Icecream Data**: Time Series Analysis with RNN](https://github.com/TaeminDA/portfolio/blob/main/tsa/Times_Series_Analysis_with_RNN.ipynb)
 
 ------
 
@@ -27,7 +27,7 @@
 
 - (DNN)[**Horses vs. Humans**: _Binary Classification_ with Custom Model](https://github.com/TaeminDA/portfolio/blob/main/computer_vision/horsehuman/Image_Binary_Classification_with_TF_Horses_vs_Humans.ipynb)
 - (DNN)**Data Sets?**: _Multi-Class Classification_ with Custom Model
-- (DNN)**Object Detection** : Mulit-Label
+- (DNN)**Object Detection**: Mulit-Label
 
 ------
 

@@ -26,7 +26,7 @@ study economics
 
 ### Univariate Time Series Forecasting
 
-- [ ] [**Financial TS Data** Time Series Analysis with ARIMA](https://github.com/TaeminDA/portfolio/blob/main/tsa/Fianancial_Time_Series_Forecasting_with_ARIMA.ipynb) 
+- [x] [**Financial TS Data** Time Series Analysis with ARIMA](https://github.com/TaeminDA/portfolio/blob/main/tsa/Fianancial_Time_Series_Forecasting_with_ARIMA.ipynb) 
 - [x] (DNN)[**Icecream Data**: Time Series Analysis with RNN](https://github.com/TaeminDA/portfolio/blob/main/tsa/Icecream_Forecasting_with_RNN.ipynb)
 
 ------

@@ -11,7 +11,7 @@
 - I do my projects on **Google Colab**. You can find my project on my Github and I attached a Google Colab link to that.
 
 ------
-## Basic
+## Just for fun
 
 - [ ] [**Heart Diease**: _Binary Classification_ with various Machine Learning Models](https://github.com/TaeminDA/portfolio/blob/main/basic/binary/Heart_Diease_Classification_V1.ipynb)
 - [ ] [**Star Type Classification**: _Multi-Class Classification_ with various Machine Learning Models](https://github.com/TaeminDA/portfolio/blob/main/basic/multiclass/Star_Classification_V1.ipynb)
@@ -40,7 +40,7 @@
 
 - [ ] (DNN)[**Horses vs. Humans**: _Binary Classification_ with Custom Model](https://github.com/TaeminDA/portfolio/blob/main/computer_vision/horsehuman/Image_Binary_Classification_with_TF_Horses_vs_Humans.ipynb)
 - [ ] (DNN)**Data Sets?**: _Multi-Class Classification_ with Custom Model
-- [ ] (DNN)**Object Detection**: Mulit-Label(incomplete)
+- [ ] (DNN)**Object Detection**: Mulit-Label
 
 ------
 
@@ -57,9 +57,7 @@
 
 - [X] [**K-means vs. C-means: Hard and Soft Clusting**](https://github.com/TaeminDA/portfolio/blob/main/unsupervised/Clustering_K_means_vs_C_means.ipynb)
 
-------
-
-3. KNN
+- [ ] KNN
 
 ------
 

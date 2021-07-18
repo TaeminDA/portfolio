@@ -11,11 +11,11 @@
 - I do my projects on **Google Colab**. You can find my project on my Github and I attached a Google Colab link to that. Some plots do not appear on Github. For this reason, I recommend you to go to the attached link to look around my projects.
 
 ------
-## Just for fun
+## Playground Just for Fun
 
 - [ ] [**Heart Diease**: _Binary Classification_ with various Machine Learning Models](https://github.com/TaeminDA/portfolio/blob/main/basic/binary/Heart_Diease_Classification_V1.ipynb)
 - [ ] [**Star Type Classification**: _Multi-Class Classification_ with various Machine Learning Models](https://github.com/TaeminDA/portfolio/blob/main/basic/multiclass/Star_Classification_V1.ipynb)
-- [ ] [**Deep Neural Network and Linear Regression**: _Regression_](https://github.com/TaeminDA/portfolio/blob/main/basic/regression/Deep_Neural_Network_and_Linear_Regression.ipynb)
+- [x] [**Deep Neural Network and Linear Regression**: _Regression_](https://github.com/TaeminDA/portfolio/blob/main/basic/regression/Deep_Neural_Network_and_Linear_Regression.ipynb)
 
 ------
 ## Regression

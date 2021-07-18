@@ -8,6 +8,8 @@
 - 📫 How to reach me **k.taeminko@gmail.com**
 - 🔤 I speak: 🇰🇷 🇬🇧 🇩🇪
 
+- I do my projects on **Google Colab**. You can find my project on my Github and I attached a Google Colab link to that.
+
 ------
 ## Basic
 
@@ -53,7 +55,7 @@
 
 ## Unsupervised Learning
 
-- [ ] [**K-means vs. C-means: Hard and Soft Clusting**](https://github.com/TaeminDA/portfolio/blob/main/unsupervised/K_means_vs_C_means.ipynb)
+- [X] [**K-means vs. C-means: Hard and Soft Clusting**](https://github.com/TaeminDA/portfolio/blob/main/unsupervised/Clustering_K_means_vs_C_means.ipynb)
 
 ------
 

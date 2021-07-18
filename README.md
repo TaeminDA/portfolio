@@ -1,6 +1,6 @@
 # Taemin's Portfolio
 
-## Introduce myself
+## About Me
 
 - 👋 Hi, I’m Taemin Ko and working on a master’s degree in Economics at the University of Mannheim.
 - 👀 I’m interested in **Machine Learning and discovering New Things**

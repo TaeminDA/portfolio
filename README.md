@@ -2,7 +2,7 @@
 
 ## Introduce myself
 
-- 👋 Hi, I’m Taemin Ko and getting a master’s in Economics at the University of Mannheim.
+- 👋 Hi, I’m Taemin Ko and working on a master’s degree in Economics at the University of Mannheim.
 - 👀 I’m interested in **Machine Learning and discovering New Things**
 - 🌱 I’m currently learning **Deep Learning**
 - 📫 How to reach me **k.taeminko@gmail.com**

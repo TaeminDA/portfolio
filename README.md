@@ -20,7 +20,7 @@
 ------
 ## Regression
 
-- [ ] (DNN)[**Tax Rebate and Heterogeneous Household's Behavior with Confidnce Interval**](https://github.com/TaeminDA/portfolio/blob/main/regression/Heterogeneous_Behavior.ipynb)
+- [x] (DNN)[**Tax Rebate and Heterogeneous Household's Behavior with Confidnce Interval**](https://github.com/TaeminDA/portfolio/blob/main/regression/Tax_Rebate_and_Heterogeneous_Behavior_with_CI_.ipynb)
 
 ------
 

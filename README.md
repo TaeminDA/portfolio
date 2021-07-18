@@ -8,7 +8,7 @@
 - 📫 How to reach me **k.taeminko@gmail.com**
 - 🔤 I speak: 🇰🇷 🇬🇧 🇩🇪
 
-- I do my projects on **Google Colab**. You can find my project on my Github and I attached a Google Colab link to that.
+- I do my projects on **Google Colab**. You can find my project on my Github and I attached a Google Colab link to that. Some plots do not appear on Github. For this reason, I recommend you to go to the attached link to look around my projects.
 
 ------
 ## Just for fun

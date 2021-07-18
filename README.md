@@ -1,9 +1,12 @@
-# Taemin's Portfolio ...on going process...(incomplete)
+# Taemin's Portfolio
 
 ## Introduce myself
 
-hobby data science, deep learning
-study economics
+- 👋 Hi, I’m Taemin Ko and getting a master’s in Economics at the University of Mannheim.
+- 👀 I’m interested in **Machine Learning and discovering New Things**
+- 🌱 I’m currently learning **Deep Learning**
+- 📫 How to reach me **k.taeminko@gmail.com**
+- 🔤 I speak: 🇰🇷 🇬🇧 🇩🇪
 
 ------
 ## Basic

@@ -62,5 +62,5 @@
 ------
 
 
-## [List of Certifications](https://github.com/TaeminDA/portfolio/blob/main/certifications/)
+## [List of Certifications](https://github.com/TaeminDA/portfolio/tree/main/Certificates)
 

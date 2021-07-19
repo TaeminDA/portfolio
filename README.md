@@ -13,7 +13,7 @@
 ------
 ## Playground Just for Fun
 
-- [ ] [**Heart Diease**: _Binary Classification_ with various Machine Learning Models](https://github.com/TaeminDA/portfolio/blob/main/basic/binary/Heart_Diease_Classification_V1.ipynb)
+- [x] [**Heart Diease**: _Binary Classification_ with various Machine Learning Models](https://github.com/TaeminDA/portfolio/blob/main/basic/binary/Heart_Diease_Classification.ipynb)
 - [ ] [**Star Type Classification**: _Multi-Class Classification_ with various Machine Learning Models](https://github.com/TaeminDA/portfolio/blob/main/basic/multiclass/Star_Classification_V1.ipynb)
 - [x] [**Deep Neural Network and Linear Regression**: _Regression_](https://github.com/TaeminDA/portfolio/blob/main/basic/regression/Deep_Neural_Network_and_Linear_Regression.ipynb)
 
